@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aravind_balaka
 - 👀 I’m interested in Gaming, Virtual Reality and Augmented Reality , Unity , unrealEngine
-- 🌱 I’m currently learning Unity AR/VR
+- 🌱 I’m currently learning deeper knowledge Unity AR/VR.
 - 📫 To reach me ...7729053858/ aravind.balaka12@gmail.com
 
 <!---
